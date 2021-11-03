@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T13:18:48.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="SF_aceuS2tHvGQ6JseJi" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T13:19:41.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="XZNzpXWO86SpbKFSW_v0" version="15.5.5" type="github">
   <diagram id="YL74b-OvVkHfxXyotu0a" name="Page-1">
     <mxGraphModel dx="3662" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Dwtq7noT_pBlv85I4lxH-82" value="Security" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="710" width="470" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-58" value="I" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="30" y="60" width="1460" height="685" as="geometry" />
         </mxCell>
@@ -120,7 +123,7 @@
           <mxGeometry x="370" y="10" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-11" value="Azure Policy&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Policy.svg;fontFamily=Helvetica;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1310" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="Dwtq7noT_pBlv85I4lxH-20" target="Dwtq7noT_pBlv85I4lxH-2">
           <mxGeometry relative="1" as="geometry">
@@ -151,7 +154,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-28" value="Azure Security Center" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Security_Center.svg;fontFamily=Helvetica;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="Dwtq7noT_pBlv85I4lxH-51" target="Dwtq7noT_pBlv85I4lxH-62">
           <mxGeometry relative="1" as="geometry">
@@ -176,7 +179,7 @@
           <mxGeometry x="780" y="780" width="67" height="64" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-68" value="Azure Trust Center" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.security;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="730" width="100" height="60" as="geometry" />
+          <mxGeometry x="1060" y="770" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="Dwtq7noT_pBlv85I4lxH-69" target="Dwtq7noT_pBlv85I4lxH-23">
           <mxGeometry relative="1" as="geometry" />
