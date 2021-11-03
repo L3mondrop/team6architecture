@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T13:00:49.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="-NZZlhtMsy9pk14w6m-z" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-03T13:06:10.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="rpgGesyr8We_t31exwPj" version="15.5.5" type="github">
   <diagram id="YL74b-OvVkHfxXyotu0a" name="Page-1">
     <mxGraphModel dx="3662" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Dwtq7noT_pBlv85I4lxH-58" value="I" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="30" y="40" width="1460" height="640" as="geometry" />
+          <mxGeometry x="30" y="40" width="1460" height="685" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-1" value="ContosoHealth-RG" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="Dwtq7noT_pBlv85I4lxH-58">
           <mxGeometry width="1460" height="640" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="30" y="70" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-49" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/API_Management_Services.svg;" vertex="1" parent="Dwtq7noT_pBlv85I4lxH-58">
-          <mxGeometry x="210" y="300" width="65" height="60" as="geometry" />
+          <mxGeometry x="242.5" y="325" width="65" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-50" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="Dwtq7noT_pBlv85I4lxH-58">
           <mxGeometry x="1010" y="310" width="64" height="64" as="geometry" />
@@ -115,23 +115,17 @@
         <mxCell id="Dwtq7noT_pBlv85I4lxH-65" value="Azure DevOps&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="Dwtq7noT_pBlv85I4lxH-66">
           <mxGeometry x="370" y="10" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="Dwtq7noT_pBlv85I4lxH-8" value="Azure Trust Center" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="870" y="720" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-11" value="Azure Policy&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Policy.svg;fontFamily=Helvetica;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="870" y="790" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Dwtq7noT_pBlv85I4lxH-12" value="Power Platform (Power Apps)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1460" y="765" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-20" value="Azure AD&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;fontFamily=Helvetica;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1360" y="765" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;align=center;" edge="1" parent="1" source="Dwtq7noT_pBlv85I4lxH-27" target="Dwtq7noT_pBlv85I4lxH-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-28" value="Azure Security Center" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Security_Center.svg;fontFamily=Helvetica;fontColor=#000000;strokeColor=#000000;fillColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="1270" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;" edge="1" parent="1" source="Dwtq7noT_pBlv85I4lxH-51" target="Dwtq7noT_pBlv85I4lxH-62">
           <mxGeometry relative="1" as="geometry">
@@ -146,6 +140,20 @@
         </mxCell>
         <mxCell id="Dwtq7noT_pBlv85I4lxH-51" value="Resource Graph" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/management_governance/Resource_Graph_Explorer.svg;" vertex="1" parent="1">
           <mxGeometry x="780" y="730" width="67" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Dwtq7noT_pBlv85I4lxH-68" value="Azure Trust Center" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.security;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="770" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dwtq7noT_pBlv85I4lxH-69" value="Power Platform" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="762.5" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Dwtq7noT_pBlv85I4lxH-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;align=center;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dwtq7noT_pBlv85I4lxH-2" target="Dwtq7noT_pBlv85I4lxH-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="305" y="650" />
+              <mxPoint x="1098" y="650" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
