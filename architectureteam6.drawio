@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-11-03T09:56:23.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="G4q_CfHozXM2romWRll_" version="15.5.5" type="github"><diagram id="YL74b-OvVkHfxXyotu0a" name="Page-1">ddG9DoMgEADgp2FXSKzO1rZLJ4fORK5Cgp5BGmmfvhqwltgu5Pju4PghrOzc2fBBXlGAJjQRjrAjoTQr8nlc4OkhTVnmpTVKBNugVi8ImAR9KAFjVGgRtVVDjA32PTQ2Mm4MTnHZHXXcdeAt7KBuuN7rTQkrveb0sPkFVCvXzmlW+EzH1+Jwk1FygdMXsYqw0iBaH3WuBL083vouft3pT/ZzMAO9/bFgDra950n0Q6x6Aw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-03T10:34:50.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.40" etag="EYw2UsuErdQCPTSuvZ1u" version="15.5.5" type="github">
+  <diagram id="YL74b-OvVkHfxXyotu0a" name="Page-1">
+    <mxGraphModel dx="1339" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dwtq7noT_pBlv85I4lxH-1" value="ContosoHealth-RG" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="400" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Dwtq7noT_pBlv85I4lxH-2" value="API Management" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="60" y="100" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Dwtq7noT_pBlv85I4lxH-3" value="Application Insights" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dwtq7noT_pBlv85I4lxH-4" value="Azure Static Web Apps" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dwtq7noT_pBlv85I4lxH-5" value="Azure Functions" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dwtq7noT_pBlv85I4lxH-6" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
